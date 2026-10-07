@@ -1,9 +1,5 @@
 # 🏫 Infraestructura de Red Interconectada y Jerárquica para Centro Educativo (Sedes: Pelayo y Córcega)
 
-![Estado del Proyecto](https://shields.io)
-![Plataforma](https://shields.io)
-![Licencia](https://shields.io)
-
 Este repositorio contiene el diseño, despliegue físico y configuración lógica de la infraestructura de red para un centro educativo dividido en dos edificios (**Sede Pelayo** y **Sede Córcega**). El proyecto simula un entorno empresarial/académico real, aislando el tráfico por departamentos mediante VLANs, optimizando el enrutamiento inter-VLAN y securizando servicios críticos.
 
 ---
